@@ -1,0 +1,26 @@
+name: 联系
+description: NONE
+labels: ["联系"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请在阅读信息后选择。如果符合，请选择。"
+    options:
+    - label: "这次联系重要且紧急吗？"
+      required: false
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 内容
+    placeholder: "-（请在这里填写内容）-"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 备注
+    placeholder: "-（请在这里填写备注）-"
+  validations:
+    required: true
