@@ -1,11 +1,11 @@
-- 👋 Hi, I'm miner233.
-- 🎉 Happy New Year!
-- 🕐 Active Hours: Saturdays, Sundays and holidays from 8:30 a.m. to 9:00 p.m (UTC+8:00 - Beijing time) .
-  - 📢 When I contact during my active hours, I usually receive a faster response.
-
+我是 Miner233，一个来自中国的 Python & Minecraft 爱好者.
+## 如果你要联系我...
+- 在 [这里](https://github.com/miner233/miner233/issues) 发布 issues
+- 如有紧急需要，可发送邮件到 3423733074@qq.com
+- 本人是学生，可能不能及时做出回复，敬请谅解。我在看到后会尽快回复。
 ***
-
-- 👋 Hi, 我是 miner233.
-- 🎉 新年快乐！
-- 🕐 活跃时间：周六、周日和假期的早上 8:00 至晚上 9:00 (UTC+8:00 - 北京时间)。
-  - 📢 在我的活跃时间联系我，通常会更快地收到回复。
+I'm Miner233, a Python & Minecraft enthusiast from China.
+## If you want to contact me...
+- Post issues [here](https://github.com/miner233/miner233/issues).
+- If you need it urgently, you can send an email to 3423733074@qq.com
+- As I am a student, please note that I may not be able to respond in a timely manner. I'll reply as soon as I see it.
